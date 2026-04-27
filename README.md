@@ -1,6 +1,6 @@
 # 🎙️ AI Voice-Interactive Personal Assistant
 
-A fully local, offline-capable voice assistant that lets you **speak** a question and get a **spoken response** — powered by **Whisper**, **LLaMA2 via Ollama**, and **pyttsx3**. Built with a modern and professional **Gradio interface**.
+A fully local, offline-capable voice assistant that lets you **speak** a question and get a **spoken response** - powered by **Whisper**, **LLaMA2 via Ollama**, and **pyttsx3**. Built with a modern and professional **Gradio interface**.
 
 ---
 
